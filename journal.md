@@ -2,8 +2,8 @@
 Model-measurements comparison of Biomass burning aerosol over W. Africa
 
 # Author
-Aslami
-Hafiz Aslami
+Aslami, University of elsewhere
+Hafiz Aslami, University of Manchester
 
 # Abstract
 We write this last because it's difficult to do. This is where we summarise our main results.
