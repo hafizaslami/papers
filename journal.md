@@ -1,7 +1,6 @@
 # Title
 Model-measurements comparison of Biomass burning aerosol over W. Africa
 
-
 # Author
 Hafiz Aslami
 
@@ -12,3 +11,6 @@ We add to thiese measurements, with chemical composition data, using an aerosol 
 # Simulations
 Johm has made some simulations of particles formation using his box model.
 It produces the grouwth is siza distribution ...
+
+# Methodology
+We used an AMS (Allen et al 1999) to measure particle mass and chemical composition.
