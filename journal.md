@@ -22,3 +22,6 @@ We observed particles growth...
 # Conclusions
 We made some grounf breaking discovery, aren't we great.
 There is more to do, give us more funding.
+
+# Figures
+This is where the figures go in a draft manuscript.
