@@ -25,3 +25,6 @@ There is more to do, give us more funding.
 
 # Figures
 This is where the figures go in a draft manuscript.
+
+# Acknowledgement
+We would like to thank ...
