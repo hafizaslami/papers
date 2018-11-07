@@ -2,7 +2,8 @@
 Model-measurements comparison of Biomass burning aerosol over W. Africa
 
 # Author
-Hafiz Aslami
+Hafiz Aslami, University of Manchester
+Aslami, University of elsewhere
 
 # Intoduction
 Haywood et al (1999) made some great measurements of BBOA over the Sahara.
