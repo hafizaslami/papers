@@ -7,3 +7,7 @@ Hafiz Aslami
 # Intoduction
 Haywood et al (1999) made some great measurements of BBOA over the Sahara.
 We add to thiese measurements, with chemical composition data, using an aerosol mass spectometer (Allen et al 2000).
+
+# Simulations
+Johm has made some simulations of particles formation using his box model.
+It produces the grouwth is siza distribution ...
